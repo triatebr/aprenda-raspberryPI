@@ -1,1 +1,1 @@
-#aprenda-raspberryPI
+#aprenda-raspberryPI -- repositório para projetos
