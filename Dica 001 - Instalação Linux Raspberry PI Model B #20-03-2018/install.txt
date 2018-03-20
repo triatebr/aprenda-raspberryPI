@@ -1,4 +1,4 @@
-Indico abaixo material apra a instalaÁ„o do Linux na Raspberry PI
+Indico abaixo material apra a instala√ß√£o do Linux na Raspberry PI
 
 https://www.filipeflop.com/blog/primeiros-passos-raspberry-pi-e-linux/#comment-238007
 https://www.embarcados.com.br/primeiros-passos-linux-na-raspberry-pi-3/
@@ -7,4 +7,39 @@ e o bom e velho Youtube!
 https://www.youtube.com/watch?v=u0PPfg0PXNc
 
 
-Material de super f·cil compreens„o
+Material de super f√°cil compreens√£o
+
+SD Card Formatter
+https://sd-card-formatter.br.uptodown.com/windows/download
+https://www.raspberrypi.org/downloads/noobs/
+
+https://www.filipeflop.com/blog/primeiros-passos-raspberry-pi-e-linux/
+https://www.embarcados.com.br/primeiros-passos-linux-na-raspberry-pi-3/
+https://www.youtube.com/watch?v=u0PPfg0PXNc
+
+
+SD card raspberry PI 3
+https://www.youtube.com/watch?v=XzGEkbYT1qM
+
+Desligar raspberry PI 3
+sudo shutdown -h now
+https://www.youtube.com/watch?v=96Adbryv62Q
+
+
+Raspberry Pi Configuration
+ABA 'System'
+user: 		'pi'
+password: 	'raspberrypi'
+boot: 		'To Desktop' (recursos gr√°ficos)
+(check) Login as user 'pi'
+Underscan:	Enabled
+
+ABA 'Localisation'
+Locale:		(trocar lingua - pt (Portuguese))
+Country:	BR (Brasil)
+Character Set:	UTF-8
+
+Timezone:	Brazil -- East
+Keyboard:	Brazil (Portuguese)
+'OK' novamente 
+Sugest√£o de reboot
