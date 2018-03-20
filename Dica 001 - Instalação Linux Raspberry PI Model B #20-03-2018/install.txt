@@ -1,0 +1,10 @@
+Indico abaixo material apra a instalação do Linux na Raspberry PI
+
+https://www.filipeflop.com/blog/primeiros-passos-raspberry-pi-e-linux/#comment-238007
+https://www.embarcados.com.br/primeiros-passos-linux-na-raspberry-pi-3/
+
+e o bom e velho Youtube!
+https://www.youtube.com/watch?v=u0PPfg0PXNc
+
+
+Material de super fácil compreensão
