@@ -1,0 +1,15 @@
+Vamos nesse post falar e fazer sobre habilitação do wifi na Raspberry...
+Como bom iniciante, achei que fosse dificil! Me enganei
+Minah primeira vez ! rs 
+Foi em uma rede wpa2, informação importante pois pode variar um pouco.
+
+Segue os links:
+https://airesruy.com.br/como-configurar-wi-fi-no-raspberry-pi/
+https://www.saibatudomt.com.br/2017/11/configurar-e-habilitar-wifi-no-rpi3-com-raspbian-stretch-lite.html
+
+
+Depois de tudo, reinicie a placa .... 
+estará on-line!
+
+
+Acompanhem as nossas dicas, logo + teremos projetos!
