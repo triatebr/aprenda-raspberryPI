@@ -1,0 +1,6 @@
+Sempre que enfrentar algum problema no 'node red' e for necessário atualizar o mesmo, proceda da seguinte forma:
+- Salve todos os seus flows existentes
+- Abra o Terminal
+- execute o comando 'sudo update-nodejs-and-nodered'
+
+O mesmo atualizará o node-red 
